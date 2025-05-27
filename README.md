@@ -1,1 +1,1 @@
-# QA and Tests
+# Quality Assurance and Tests
